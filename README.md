@@ -1,6 +1,4 @@
-# Comprobaciones del funcionaiento de terraform
-
-Descripción breve del proyecto.
+# Comprobaciones del funcionaiento
 
 ## Grupo de recursos
 
